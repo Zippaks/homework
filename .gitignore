@@ -91,7 +91,7 @@ ipch/
 *.sap
 *.csproj
 *.config
-
+*.sln
 # TFS 2012 Local Workspace
 $tf/
 
